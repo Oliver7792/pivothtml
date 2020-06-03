@@ -233,9 +233,6 @@ header {
 	}
 }
 
-.hero-banner{
-	background-color: $dark;
-}
 
 // Flaticon 
 .custom-icon {
@@ -316,11 +313,11 @@ header {
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center center;
-			height: calc(100vh - 117px);
+			height: calc(100vh - 300px);
 			min-height: 700px;	
 			.slider-text {
 				color: $white;
-				height: calc(100vh - 117px);
+				height: calc(100vh - 300px);
 				min-height: 700px;
 				h1 {
 					font-size: 3rem;
